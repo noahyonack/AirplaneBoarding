@@ -1,5 +1,7 @@
 ## Simulating Times for Various Airplane Boarding Policies
 
+![Simulated Time for Various Airplane Boarding Strategies](/times.png?raw=true "Simulated Time for Various Airplane Boarding Strategies")
+
 #### What does this notebook do?
 
 Given a boarding policy (that is, a rule which assigns a boarding order to passengers on a plane), this notebook simulates the amount of time it'll take to board the plane using that policy. Example policies include boarding front to back, back to front, and window-middle-aisle.
